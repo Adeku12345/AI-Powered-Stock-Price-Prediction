@@ -1,0 +1,8 @@
+README.md
+setup.py
+AI_Powered_Stock_Price_Prediction.egg-info/PKG-INFO
+AI_Powered_Stock_Price_Prediction.egg-info/SOURCES.txt
+AI_Powered_Stock_Price_Prediction.egg-info/dependency_links.txt
+AI_Powered_Stock_Price_Prediction.egg-info/requires.txt
+AI_Powered_Stock_Price_Prediction.egg-info/top_level.txt
+src/__init__.py
